@@ -1,7 +1,3 @@
-Certainly! Here's the updated README.md file with additional information about machine learning:
-
----
-
 # Machine Learning
 
 Welcome to the Machine Learning repository! This repository contains Jupyter Notebook files related to various machine learning algorithms and techniques.
